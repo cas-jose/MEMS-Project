@@ -1,3 +1,4 @@
 # MEMS-Project
 This git includes all laboratry data and documentation.
-[Contribution guidelines for this project](Final Report/M183B Report.pdf)
+![alt text](https://github.com/cas-jose/MEMS-Project/Photos/GoodLab1/IMG_9664.JPG?raw=true)
+
